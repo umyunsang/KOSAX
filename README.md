@@ -145,4 +145,5 @@ The model license and UMMAYA source-code license are separate. UMMAYA does not g
 - Adapter docs: [docs/api/](docs/api/)
 - Codex continuation: [docs/onboarding/codex-continuation.md](docs/onboarding/codex-continuation.md)
 - Release readiness: [docs/release/homebrew-official-readiness.md](docs/release/homebrew-official-readiness.md)
+- Awards and programs: [docs/awards/](docs/awards/)
 - Contributing: [CONTRIBUTING.md](CONTRIBUTING.md)
